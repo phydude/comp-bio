@@ -6,8 +6,8 @@ Welcome to the Computational Biology Code Samples repository! This collection of
 
 ## Table of Contents
 
-- [Gene Expression Dynamics Simulation](#gene-expression-dynamics-simulation)
-- [Molecular Concentration Simulation](#molecular-concentration-simulation)
+- Gene Expression Dynamics Simulation
+- Molecular Concentration Simulation
 
 ## Gene Expression Dynamics Simulation
 
@@ -17,7 +17,7 @@ This code simulates the dynamics of gene expression using ordinary differential 
 
 ### Usage
 
-1. Open the `gene_expression_simulation.py` file in a Python environment or an integrated development environment (IDE).
+1. Open the `central_dogma_ode.py, gene_model_activation.py, gene_model_repression.py` file in a Python environment or an integrated development environment (IDE).
 2. Ensure you have the necessary libraries installed (NumPy, Matplotlib, SciPy).
 3. Run the script to execute the simulation and visualize the gene expression dynamics.
 
@@ -25,11 +25,11 @@ This code simulates the dynamics of gene expression using ordinary differential 
 
 ### Description
 
-This code simulates molecular concentration dynamics in a biological system using ODEs. It focuses on the behavior of two molecular species, G1 and G2, over a defined time span.
+This code simulates molecular concentration dynamics in a biological system using ODEs. It focuses on the behavior of two(three) molecular species, G1 and G2(or G3), over a defined time span.
 
 ### Usage
 
-1. Open the `molecular_concentration_simulation.py` file in a Python environment or an integrated development environment (IDE).
+1. Open the `oscillating_gene_network.py, stochastic_oscillator.py` file in a Python environment or an integrated development environment (IDE).
 2. Make sure you have the required libraries installed (Matplotlib, SciPy, NumPy).
 3. Run the script to execute the simulation and visualize the molecular concentration dynamics.
 
